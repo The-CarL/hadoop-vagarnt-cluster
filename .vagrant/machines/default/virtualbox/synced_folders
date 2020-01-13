@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/Users/carlo.a.perottino@ey.com/github_The-CarL/hadoop-vagrant-cluster","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
